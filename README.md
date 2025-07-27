@@ -2,9 +2,6 @@
 Supplementary R Code for the manuscript: "Lipid Metabolic Reprogramming Drives CD8⁺ T Cell Exhaustion in PD-L1⁺ NSCLC: A Systems Biology and Causal Inference Approach"
 # cd8_lipid_metabolism_gsva
 
-**Supplementary R Code** for the manuscript:  
-**"Lipid Metabolic Reprogramming Drives CD8⁺ T Cell Exhaustion in PD-L1⁺ NSCLC: A Systems Biology and Causal Inference Approach"**
-
 ## Overview
 
 This repository contains a single R script (`Code 5.R`) used for **Gene Set Variation Analysis (GSVA)** of lipid-associated pathways in CD8⁺ T cells. This analysis supports the pathway-level enrichment profiling described in the associated manuscript.
